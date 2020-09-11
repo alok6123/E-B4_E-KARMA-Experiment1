@@ -11,13 +11,6 @@
 <b> Experiment|     <b> WAP that checks whether the two numbers entered by the user are equal or not.
 
 
-<h4> [1. Focus Area](#LO)
-<h4> [2. Learning Objectives ](#LO)
-<h4> [3. Instructional Strategy](#IS)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
-<hr>
-
 <a name="LO"></a>
 #### 1. Focus Area :Reinforce Mathematical Concept
 In this problem solving approach we check whether the two numbers entered by the user are equal or not using some instructional methodology for implementation of computation using equal to operator (==) and by difference of numbers (a-b=0 same) and more.
