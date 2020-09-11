@@ -29,7 +29,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| Understanding the concept that two numbers are equal or not. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| Understanding the concept of operators such as equal to and difference.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| Understanding the concept how two numbers are equal.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+4.| Perform the comparison to checks whether the two numbers entered by the user are equal or not. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
