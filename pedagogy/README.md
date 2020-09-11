@@ -1,16 +1,14 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
-<br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Programming for Problem Solving   <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Computer Science & Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Programming for Problem Solving
+<b> Experiment|     <b> WAP that checks whether the two numbers entered by the user are equal or not.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,17 +19,17 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
-
+#### 1. Focus Area :Reinforce Mathematical Concept
+In this problem solving approach we check whether the two numbers entered by the user are equal or not using some instructional methodology for implementation of computation using equal to operator (==) and by difference of numbers (a-b=0 same) and more.
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| Understanding the concept that two numbers are equal or not. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+2.| Understanding the concept of operators such as equal to and difference.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3.| Understanding the concept how two numbers are equal.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+4.| User will be able to: <br>Next line from here <br> Next line here. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
@@ -43,14 +41,11 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Problem based expository
+###### Assessment Method: Practical based
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
-<br>
- Brief description as per handout
+<u> <b>Description: </b> This experiment enables the students to understand the concept to check two numbers are equal or not. It offers students a chance to gain deeper learning of the numbers how the numbers equal or not by providing input of two numbers  to the simulator and compare the expected result and observed result that they are equal or not. </u>
 
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -65,18 +60,11 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| User will be able to check whether the two numbers entered by the user are equal or not.| On the simulator screen, students will be able to give input of two numbers in the text box and submit the value for the comparison of the numbers performed by the simulator. | Compare the provided numbers to get the result 
+2.| User will be able to compare the entered number with the help of operator.  | On the simulator screen, students will be able to select the operator as their choice and provide the input in to get the result.|Compare the provided numbers using different operators 
 
 
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
 
- <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -90,7 +78,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Student clicks on the simulation tab. | Simulator screen of the experiment will open up. | To open screen for performing the experiment.
+2.| Student will select the operator they want to perform the comparison of two numbers. | The input boxes for the chosen comparison will appear on the simulator’s screen.| Open the desired comparison setup.
+3.| Student will provide the input in the simulator. | On Simulator screen it will accept the input provided by the user. | To show the internal operation
+4.| Click on  the Result button| Simulator performs the comparison operation to display the result.  | Generate result for the selected operator. 
