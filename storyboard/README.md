@@ -51,13 +51,13 @@ I.	What do you mean by header files? What are uses of header file?
 
 ##### 2.5 Allow pitfalls:
 I.	If user is not familiar with any programming language.
-II.	If the user is not familiar with operator of the language.
+<br>II.	If the user is not familiar with operator of the language.
 
 
 ##### 2.6 Conclusion:
 I.	User will take hardly 5 minutes to understand the procedure.
-II.	It will take max. 10 minutes to complete the experiment.
-III.	User will get a basic idea and procedure to make a program.
+<br>II.	It will take max. 10 minutes to complete the experiment.
+<br>III.	User will get a basic idea and procedure to make a program.
 
 
 ##### 2.7 Equations/formulas: NA
