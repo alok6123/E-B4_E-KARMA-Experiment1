@@ -22,8 +22,8 @@ III.	There is a buttons namely check by which a user can get their result
 
 #### 2.2 Set User Objectives & Goals:
 I.	By this experiment user will be able to understand and describe the basic concept of C programming.
-II.	User will be able to understand the procedure of writing code.
-III.	User will be able to understand the working of operator.
+<br>II.	User will be able to understand the procedure of writing code.
+<br>III.	User will be able to understand the working of operator.
 IV.	User will be able to find out that numbers are equal or not.
 
 
