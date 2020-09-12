@@ -1,47 +1,88 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment: WAP that checks whether the two numbers entered by the user are equal or not.
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+C is a general-purpose programming language that is extremely popular, simple and flexible. It is machine-independent, structured programming language which is used extensively in various applications.
+In this experiment a user wants to check whether the two numbers entered by the user are equal or not. The objective of this experiment is that a user can understand and describe basic concept of C programming using this experiment.
+
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+I.	Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment
+II.	There are various keywords, functions and header files used, so user can also understand the basic tags. 
+III.	User can get an idea about the structure of C Programming.
+
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+I.	The simulator screen, divided into three parts, for selecting operators which is subdivided into three sections for input code and Animation. User can see the code of experiment and basic description of the code.
+II.	There are text boxes for input (Numbers).
+III.	There is a buttons namely check by which a user can get their result
+
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+I.	By this experiment user will be able to understand and describe the basic concept of C programming.
+II.	User will be able to understand the procedure of writing code.
+III.	User will be able to understand the working of operator.
+IV.	User will be able to find out that numbers are equal or not.
+
+
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+I.	When the user will click on the simulator, simulator screen will be open up. The user will see three options on screen. 
+II.	When the user will click on any option, simulator screen will be open up. Then screen is divided into three parts.
+III.	On screen firstly there is an input section where user can provide the input and click on check button to get the result.
+IV.	 After that there is a code section where user can get an idea about the code and concept of C programming.
+V.	 At the last there is an animation section which will simulate the code.
+
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+I.	What do you mean by header files? What are uses of header file?
+II.	What are the function of operator?
+III.	What do you understand by operator?
+IV.	How many types of operators are present in c language?
+V.	What do you understand by bit wise operator?
+VI.	Can we run a program with using header files? Explain.
+VII.	Define function and its type. How many functions are used in this code?
+VIII.	What will happen if we are not using getch() function?
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+I.	If user is not familiar with any programming language.
+II.	If the user is not familiar with operator of the language.
+
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+I.	User will take hardly 5 minutes to understand the procedure.
+II.	It will take max. 10 minutes to complete the experiment.
+III.	User will get a basic idea and procedure to make a program.
+
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+I.	Equal to operator:
+
+To check whether the number is equal or not :
+I.	Input two numbers A and B.
+II.	Use equal to operator (==) to check.
+III.	Example:- A==B (A=5 and B=5)
+IV.	5==5
+V.	Result: A and B are equal.
+ 
+ II.	Minus operator:
+To check whether the number is equal or not :
+I.	Input two numbers A and B.
+II.	Use minus operator (-) to check.
+III.	Example:- A-B (A=10 and B=5)
+IV.	10-5=5 (A-B=0 to be equal)
+V.	Result: A and B are not equal.
+
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+<img src="flowchart/flowchart.png"/>
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
