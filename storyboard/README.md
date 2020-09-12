@@ -32,9 +32,9 @@ IV.	User will be able to find out that numbers are equal or not.
 
 I.	When the user will click on the simulator, simulator screen will be open up. The user will see three options on screen. 
 <br>II.	When the user will click on any option, simulator screen will be open up. Then screen is divided into three parts.
-III.	On screen firstly there is an input section where user can provide the input and click on check button to get the result.
+<br>III.	On screen firstly there is an input section where user can provide the input and click on check button to get the result.
 <br>IV.	 After that there is a code section where user can get an idea about the code and concept of C programming.
-V.	 At the last there is an animation section which will simulate the code.
+<br>V.	 At the last there is an animation section which will simulate the code.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
