@@ -64,19 +64,19 @@ I.	User will take hardly 5 minutes to understand the procedure.
 I.	Equal to operator:
 
 To check whether the number is equal or not :
-I.	Input two numbers A and B.
-II.	Use equal to operator (==) to check.
-III.	Example:- A==B (A=5 and B=5)
-IV.	5==5
-V.	Result: A and B are equal.
+<br>I.	Input two numbers A and B.
+<br>II.	Use equal to operator (==) to check.
+<br>III.	Example:- A==B (A=5 and B=5)
+<br>IV.	5==5
+<br>V.	Result: A and B are equal.
  
  II.	Minus operator:
 To check whether the number is equal or not :
-I.	Input two numbers A and B.
-II.	Use minus operator (-) to check.
-III.	Example:- A-B (A=10 and B=5)
-IV.	10-5=5 (A-B=0 to be equal)
-V.	Result: A and B are not equal.
+<br>I.	Input two numbers A and B.
+<br>II.	Use minus operator (-) to check.
+<br>III.	Example:- A-B (A=10 and B=5)
+<br>IV.	10-5=5 (A-B=0 to be equal)
+<br>V.	Result: A and B are not equal.
 
 
 
