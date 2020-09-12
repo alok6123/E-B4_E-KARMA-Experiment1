@@ -4,8 +4,8 @@
 
 ### 1. Story Outline:
 
-C is a general-purpose programming language that is extremely popular, simple and flexible. It is machine-independent, structured programming language which is used extensively in various applications.
-In this experiment a user wants to check whether the two numbers entered by the user are equal or not. The objective of this experiment is that a user can understand and describe basic concept of C programming using this experiment.
+C is a general-purpose programming language that is extremely popular, simple and flexible. It is machine-independent, structured programming language which is used extensively in various applications.<br>
+In this experiment a user wants to check whether the two numbers entered by the user are equal or not. The objective of this experiment is that a user can understand and describe basic concept of C programming using this experiment.</br>
 
 
 ### 2. Story:
