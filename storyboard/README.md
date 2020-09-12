@@ -16,7 +16,7 @@ III.	User can get an idea about the structure of C Programming.
 
 #### 2.1 Set the Visual Stage Description:
 I.	The simulator screen, divided into three parts, for selecting operators which is subdivided into three sections for input code and Animation. User can see the code of experiment and basic description of the code.
-II.	There are text boxes for input (Numbers).
+<br>II.	There are text boxes for input (Numbers).</br>
 III.	There is a buttons namely check by which a user can get their result
 
 
