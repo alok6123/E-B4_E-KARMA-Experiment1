@@ -11,9 +11,11 @@ In this experiment a user wants to check whether the two numbers entered by the 
 ### 2. Story:
 
 I.	Firstly user will get the basic knowledge of C Programming and by seeing the code; they can get an idea about the experiment
-II.	There are various keywords, functions and header files used, so user can also understand the basic tags. 
+<br>
+II.	There are various keywords, functions and header files used, so user can also understand the basic tags. </br>
+<br>
 III.	User can get an idea about the structure of C Programming.
-
+</br>
 
 #### 2.1 Set the Visual Stage Description:
 I.	The simulator screen, divided into three parts, for selecting operators which is subdivided into three sections for input code and Animation. User can see the code of experiment and basic description of the code.
