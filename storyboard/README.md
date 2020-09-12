@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment: WAP that checks whether the two numbers entered by the user are equal or not.
+<b>Experiment: WAP that checks whether the two numbers entered by the user are equal or not.</b>
 
 ### 1. Story Outline:
 
