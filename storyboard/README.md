@@ -40,13 +40,13 @@ I.	When the user will click on the simulator, simulator screen will be open up. 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 I.	What do you mean by header files? What are uses of header file?
-II.	What are the function of operator?
-III.	What do you understand by operator?
-IV.	How many types of operators are present in c language?
-V.	What do you understand by bit wise operator?
-VI.	Can we run a program with using header files? Explain.
-VII.	Define function and its type. How many functions are used in this code?
-VIII.	What will happen if we are not using getch() function?
+<br>II.	What are the function of operator?
+<br>III.	What do you understand by operator?
+<br>IV.	How many types of operators are present in c language?
+<br>V.	What do you understand by bit wise operator?
+<br>VI.	Can we run a program with using header files? Explain.
+<br>VII.	Define function and its type. How many functions are used in this code?
+<br>VIII.	What will happen if we are not using getch() function?
 
 
 ##### 2.5 Allow pitfalls:
