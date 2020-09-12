@@ -4,7 +4,7 @@
 
 ### 1. Story Outline:
 
-C is a general-purpose programming language that is extremely popular, simple and flexible. It is machine-independent, structured programming language which is used extensively in various applications.<br>
+C is a general-purpose programming language that is extremely popular, simple and flexible. It is machine-independent, structured programming language which is used extensively in various applications.<br><br>
 In this experiment a user wants to check whether the two numbers entered by the user are equal or not. The objective of this experiment is that a user can understand and describe basic concept of C programming using this experiment.</br>
 
 
@@ -71,7 +71,7 @@ To check whether the number is equal or not :
 <br>V.	Result: A and B are equal.
  
  II.	Minus operator:
-To check whether the number is equal or not :
+<br>To check whether the number is equal or not :
 <br>I.	Input two numbers A and B.
 <br>II.	Use minus operator (-) to check.
 <br>III.	Example:- A-B (A=10 and B=5)
