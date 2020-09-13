@@ -12,7 +12,7 @@
 
 
 <a name="LO"></a>
-#### 1. Focus Area :Reinforce Mathematical Concept
+#### 1. Focus Area :Recalling Previous knowledge 
 In this problem solving approach we check whether the two numbers entered by the user are equal or not using some instructional methodology for implementation of computation using equal to operator (==) and by difference of numbers (a-b=0 same) and more.
 #### 2. Learning Objectives and Cognitive Level
 
