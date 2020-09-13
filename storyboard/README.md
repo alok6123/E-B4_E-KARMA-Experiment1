@@ -87,5 +87,5 @@ To check whether the number is equal or not :
 <img src="mindmap/mindmap.png"/>
 
 ### 5. Storyboard :
-<img src="Storyboard/carwiper.gif"/>
+<img src="storyboard/carwiper.gif"/>
 
