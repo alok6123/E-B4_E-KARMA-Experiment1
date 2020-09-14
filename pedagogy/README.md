@@ -12,7 +12,7 @@
 
 
 <a name="LO"></a>
-#### 1. Focus Area :Recalling Previous knowledge 
+#### 1. Focus Area :Data Analysis 
 In this problem solving approach we check whether the two numbers entered by the user are equal or not using some instructional methodology for implementation of computation using equal to operator (==) and by difference of numbers (a-b=0 same) and more.
 #### 2. Learning Objectives and Cognitive Level
 
@@ -22,7 +22,6 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| Understanding the concept that two numbers are equal or not. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| Understanding the concept of operators such as equal to and difference.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| Understanding the concept how two numbers are equal.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| Perform the comparison to checks whether the two numbers entered by the user are equal or not. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
