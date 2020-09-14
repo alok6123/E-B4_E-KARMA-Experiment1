@@ -17,7 +17,7 @@ d) ==<br>
 a) conio.h<br>
 b) iostream.h<br>
 c) stdio.h<br>
-<b>d) Both a & b<br></b>
+<b>d) Both a & b</b>
 
 4) What is the function of an operator? <br>
 <b>a) Perform a mathematical and logical operator<br></b>
