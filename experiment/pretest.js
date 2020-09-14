@@ -90,25 +90,47 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "1.  How many types of operators in C language?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "8",                  ///// Write the option 1 inside double quotes
+        b: "5",                  ///// Write the option 2 inside double quotes
+        c: "2",                  ///// Write the option 3 inside double quotes
+        d: "7"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "2.Operator % in C Language is called? ",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Percentage Operator",                  ///// Write the option 1 inside double quotes
+        b: "Quotient Operator",                  ///// Write the option 2 inside double quotes
+        c: "Modulus",                  ///// Write the option 3 inside double quotes
+        d: "Division"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    									                  ///// this line
+{
+     question: "3.The operator "&" is used for",  ///// Write the question inside double quotes
+      answers: {
+        a: "Bitwise AND",                  ///// Write the option 1 inside double quotes
+        b: "Bitwise OR",                  ///// Write the option 2 inside double quotes
+        c: "Logical AND",                  ///// Write the option 3 inside double quotes
+        d: "Logical OR"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    									                  ///// this line
+{
+     question: "5. Which of the following operator takes only integer operands?",  ///// Write the question inside double quotes
+      answers: {
+        a: "%",                  ///// Write the option 1 inside double quotes
+        b: "*",                  ///// Write the option 2 inside double quotes
+        c: "/",                  ///// Write the option 3 inside double quotes
+        d: "None of these"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
