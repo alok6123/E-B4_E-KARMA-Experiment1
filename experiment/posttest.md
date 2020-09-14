@@ -2,7 +2,7 @@
 #### Please attempt the following questions
 
 1) Which of the following is equal to operator?<br>
-<b>a) ==<br></b>
+a) <b>==</b><br>
 b) =	<br>
 c) =!<br>
 d) =?<br>
