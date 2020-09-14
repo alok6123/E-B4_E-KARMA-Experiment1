@@ -12,19 +12,13 @@ b. Quotient Operator<br>
 <b>c. Modulus<br></b>
 d. Division<br>
 
-Q 3. Which of the following is assignment operator?<br>
-<b>a. =<br></b>
-b. /=<br>
-c. %=<br>
-d. ==<br>
-
-Q 4. The operator "&" is used for<br>
+Q 3. The operator "&" is used for<br>
 a. Bitwise OR<br>
 <b>b. Bitwise AND<br></b>
 c. Logical AND<br>
 d. Logical OR<br>
 
-Q 5.  Which of the following operator takes only integer operands?<br>
+Q 4.  Which of the following operator takes only integer operands?<br>
 a. +<br>
 <b>b. *<br></b>
 c.  /<br>
