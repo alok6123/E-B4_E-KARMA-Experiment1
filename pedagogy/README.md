@@ -34,7 +34,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> Problem based expository
-###### Assessment Method: Practical based
+###### Assessment Method: Formative based
 
 <u> <b>Description: </b> This experiment enables the students to understand the concept to check two numbers are equal or not. It offers students a chance to gain deeper learning of the numbers how the numbers equal or not by providing input of two numbers  to the simulator and compare the expected result and observed result that they are equal or not. </u>
 
