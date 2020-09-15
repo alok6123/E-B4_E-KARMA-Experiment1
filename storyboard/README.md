@@ -81,7 +81,7 @@ To check whether the number is equal or not :
 
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/flowchart.png"/>
 
 ### 4. Mindmap:
