@@ -301,7 +301,10 @@ function handelMinusOperator() {
     </div>
     <div id="2" style="display: none">
       <div class="animation-moving-div">
-        <p class="animation-text-include">int1, int2</p>
+        <p class="animation-text-include" style="margin-right: 1px;">int1</p>
+      </div>
+      <div class="animation-moving-div">
+        <p class="animation-text-include">int2</p>
       </div>
       <div class="animation-stack-box">
         <div class="animation-text-file">memory location</div>
@@ -315,7 +318,10 @@ function handelMinusOperator() {
     </div>
     <div id="4" style="display: none">
       <div class="animation-moving-div">
-        <p class="animation-text-include">Value1, Value2</p>
+        <p class="animation-text-include" style="margin-right: 1px;">Value1</p>
+      </div>
+      <div class="animation-moving-div">
+        <p class="animation-text-include">Value2</p>
       </div>
       <div class="animation-stack-box">
         <div class="animation-text-file">int1, int2</div>
@@ -470,7 +476,10 @@ function handelXorOperator() {
     </div>
     <div id="2" style="display: none">
       <div class="animation-moving-div">
-        <p class="animation-text-include">int1, int2</p>
+        <p class="animation-text-include" style="margin-right: 1px;">int1</p>
+      </div>
+      <div class="animation-moving-div">
+        <p class="animation-text-include">int2</p>
       </div>
       <div class="animation-stack-box">
         <div class="animation-text-file">memory location</div>
@@ -484,7 +493,10 @@ function handelXorOperator() {
     </div>
     <div id="4" style="display: none">
       <div class="animation-moving-div">
-        <p class="animation-text-include">Value1, Value2</p>
+        <p class="animation-text-include" style="margin-right: 1px;">Value1</p>
+      </div>
+      <div class="animation-moving-div">
+        <p class="animation-text-include">Value2</p>
       </div>
       <div class="animation-stack-box">
         <div class="animation-text-file">int1, int2</div>
@@ -553,6 +565,7 @@ function handelSim() {
   let el = document.getElementById("hell");
   el.remove();
   MainPage();
+  nextPreviousCounter = -1;
   wordtypingEffect();
 }
 
