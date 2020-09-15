@@ -12,16 +12,18 @@
 
 
 <a name="LO"></a>
-#### 1. Focus Area :Data Analysis 
-In this problem solving approach we check whether the two numbers entered by the user are equal or not using some instructional methodology for implementation of computation using equal to operator (==) and by difference of numbers (a-b=0 same) and more.
+#### 1. Focus Area :Reinforce Theoretical  Concept
+
+The user re-register their previously learnt theoreritical concepts by seeing it visually and by their working along with the simulator understanding the programming in c language .finally analyzing results with standard value.
+
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Understanding the concept that two numbers are equal or not. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| Understanding the concept of operators such as equal to and difference.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| Understanding the concept how two numbers are equal.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to find two numbers are equal or not. | [Evaluating](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [compare](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+2.| User will be able to understand two numbers are equal or not.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Explain](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3.| User will be able to understand the operator.  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Demonstrate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
@@ -34,9 +36,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> Problem based expository
-###### Assessment Method: Formative based
+###### Assessment Method: Formative Assessment
 
-<u> <b>Description: </b> This experiment enables the students to understand the concept to check two numbers are equal or not. It offers students a chance to gain deeper learning of the numbers how the numbers equal or not by providing input of two numbers  to the simulator and compare the expected result and observed result that they are equal or not. </u>
+<u> <b>Description: </b> The user will be able to interact with the simulator while operating the operation on the simulator we have propose problem based instructional strategy based on project aim to check whether the number entered by the user are equal or not.We have also focus on the learning objective that all the objective should be completed as proposed in our project.     </u>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -53,7 +55,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| User will be able to check whether the two numbers entered by the user are equal or not.| On the simulator screen, students will be able to give input of two numbers in the text box and submit the value for the comparison of the numbers performed by the simulator. | Compare the provided numbers to get the result 
-2.| User will be able to compare the entered number with the help of operator.  | On the simulator screen, students will be able to select the operator as their choice and provide the input in to get the result.|Compare the provided numbers using different operators 
+2.| User will be able to compare the entered number with the help of operator.  | On the simulator screen, students will be able to select the operator as their choice and provide the input in to get the result.|Compare the provided numbers using different operators
+3.| User will be able to understand the operator.  | On the simulator screen, students will be able to select the operator, according to the operator animation is displayed.|What user understand with the operator 
+4.| User will be able to understand the c program for comparing to numbers. |  On the simulator screen select operator to get the c code which will be displayed in code section.|What user knows about comparing of two numbers using c language.
+
 
 
 
