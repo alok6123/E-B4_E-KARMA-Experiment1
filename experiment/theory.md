@@ -1,5 +1,6 @@
-The experiment uses c language there are many operators available in the language. In this experiment we are focusing on the equal to (==), minus ( - ) and XOR operator to check whether the number entered by the user are equal or not. 
-I.	Equal to operator:
+<pre>
+The experiment uses c language there are many operators available in the language. In this experiment we are focusing on the equal to (==), minus ( - ) and XOR operator to check whether the number entered by the user are equal or not.<br> 
+I.	Equal to operator:<br>
 
 To check whether the number is equal or not :
 I.	Input two numbers A and B.
@@ -29,3 +30,4 @@ Formula:
 •	A==B (Equal to)
 •	A-B (Minus)
 •	A^B (XOR)
+</pre>
